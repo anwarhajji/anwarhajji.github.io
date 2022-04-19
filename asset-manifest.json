@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monster-nft/static/css/main.88876a11.css",
+    "main.js": "/monster-nft/static/js/main.b6cc88bc.js",
+    "static/js/787.386faf36.chunk.js": "/monster-nft/static/js/787.386faf36.chunk.js",
+    "index.html": "/monster-nft/index.html",
+    "main.88876a11.css.map": "/monster-nft/static/css/main.88876a11.css.map",
+    "main.b6cc88bc.js.map": "/monster-nft/static/js/main.b6cc88bc.js.map",
+    "787.386faf36.chunk.js.map": "/monster-nft/static/js/787.386faf36.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88876a11.css",
+    "static/js/main.b6cc88bc.js"
+  ]
+}
